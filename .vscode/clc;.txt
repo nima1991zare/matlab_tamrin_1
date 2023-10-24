@@ -1,0 +1,13 @@
+clc;
+clear;
+close all;
+width=400;
+height=400;
+img=zeros(width,height);
+x1=100;
+y1=100;
+x2=300;
+y2=300;
+
+plot([x1,x2],[y1,y2]);
+
